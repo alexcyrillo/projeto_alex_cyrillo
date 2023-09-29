@@ -15,9 +15,9 @@ public class A {
     this.A2 = A2;
   }
   public void MA1(){
-    System.out.print("MA1);
+    System.out.print("MA1");
   }
   public void MA2(){
-    System.out.print("MA2);
+    System.out.print("MA2");
   }
 }

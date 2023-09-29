@@ -25,3 +25,4 @@ public class A {
   public void MA2() {
     System.out.print("MA2");
   }
+}
